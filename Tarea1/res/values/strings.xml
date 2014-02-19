@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SP MALL</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">Favoritos</string>
+    <string name="action_share">Compartir</string>
+    <string name="msg_share">Te comparto la información de %1$s: %2$s</string>
+    <string name="photo">Fotos de los comerciales</string>
+    <string name="promo">Promociones del Centro Comercial</string>
+    <string name="txt_direccion">Dirección:</string>
+    <string name="txt_telefono">Teléfono:</string>
+    <string name="txt_horario">Horario:</string>
+    <string name="txt_website">Website:</string>
+    <string name="txt_email">Email:</string>
+    <string name="direccion">Km 13.8 Zona 3 de Mixco</string>
+    <string name="horario">lun – dom: 10:00 – 20:00</string>
+    <string name="btn_call">Llamar</string>
+    <string name="btn_add">Agregar</string>
+    <string name="title_fragment_list">Listado</string>
+    <string name="title_fragment_maps">Mapa</string>
+    <string name="title_activity_store_detail">SP MALL</string>
+    <string name="title_activity_photo">SP MALL</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+
+    <string-array name="drawer_options">
+        <item>Imagenes</item>
+        <item>Tiendas</item>
+        <item>Comunidad</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Tienda Anais</item>
+        <item>Tienda Max</item>
+        <item>Tienda Claro</item>
+        <item>Tienda Soccermania</item>
+        <item>McDonalds</item>
+        <item>Pizza Hut</item>
+    </string-array>
+    <string-array name="anais_details">
+        <item>22671070</item>
+        <item>https://www.facebook.com/TiendasAnais</item>
+        <item>facebook@tiendasanais.com</item>
+    </string-array>
+    <string-array name="max_details">
+        <item>22507039 al 41</item>
+        <item>http://www.distelsa.com.gt/</item>
+        <item> – </item>
+    </string-array>
+    <string-array name="claro_details">
+        <item>147100</item>
+        <item>http://www.claro.com.gt/portal/gt/pc/personas/</item>
+        <item> – </item>
+    </string-array>
+    <string-array name="soccermania_details">
+        <item>23201717</item>
+        <item>http://www.soccermaniaguate.com</item>
+        <item>scliente@ardegua.com</item>
+    </string-array>
+    <string-array name="mc_details">
+        <item>23606363 / 1770</item>
+        <item>https://mcdonalds.com.gt</item>
+        <item> – </item>
+    </string-array>
+    <string-array name="piza_hut_details">
+        <item>1744</item>
+        <item>http://www.pizzahut.com.gt</item>
+        <item>sugerencias@pizzahut.com.gt</item>
+    </string-array>
+    
+</resources>
